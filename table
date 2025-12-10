@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mental Health Roles and Responsibilities Table</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+    }
+
+    th, td {
+        border: 1px solid #e5e5e5;
+        padding: 10px;
+    }
+
+    th {
+        background: #f3f9fc;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    th:first-child,
+    td:first-child {
+        text-align: left;
+        width: 35%;
+    }
+
+    td {
+        text-align: center;
+    }
+
+    .dot {
+        font-size: 20px;
+        color: #0097d4;  /* AFL blue tone – adjust if needed */
+        line-height: 1;
+    }
+
+    /* Responsive */
+    @media (max-width: 700px) {
+        table, th, td {
+            font-size: 12px;
+        }
+    }
+</style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th>Roles and Responsibilities in Mental Health</th>
+            <th>Industry Leaders*</th>
+            <th>All Club Staff*</th>
+            <th>Players</th>
+            <th>Club Doctor</th>
+            <th>Club Psychologist</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Prioritising Mental Health</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Meeting workplace psychosocial health and safety obligations</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td>Identifying and mitigating risks to mental health in the sporting environment and schedule</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td>Identifying and mitigating risks to mental health from media and social media</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td>Contributing to a psychologically safe team environment*</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Prevention and providing education on protecting and promoting good mental health</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Ensuring only credentialed providers are engaged or endorsed</td>
+            <td><span class="dot">•</span></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Ensuring adequate resourcing for Mental Healthcare</td>
+            <td><span class="dot">•</span></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Providing and promoting accessible pathways for Mental Healthcare</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Monitoring and screening for Mental Health symptoms</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Supporting safe return to play</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Encouraging help seeking and help giving</td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Mental Health assessment</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Mental Health treatment</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+
+        <tr>
+            <td>Mental Health specialist referral</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><span class="dot">•</span></td>
+            <td><span class="dot">•</span></td>
+        </tr>
+    </tbody>
+</table>
+
+<p style="font-size: 12px; margin-top: 10px;">
+    *Leaders includes AFL commission, Club executives and boards, Club General Managers, AFL Executive, AFLPA Executive.<br>
+    *Includes PDMs, PDMIs, healthcare staff, coaches.
+</p>
+
+</body>
+</html>
