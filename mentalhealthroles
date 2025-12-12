@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Roles and Responsibilities in Mental Health</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+  }
+
+  caption {
+    caption-side: top;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+
+  th, td {
+    border: 1px solid #d8e6f2;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  th {
+    background-color: #eaf3fa;
+    color: #333;
+    font-weight: bold;
+  }
+
+  td:first-child, th:first-child {
+    text-align: left;
+    font-weight: 600;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f7fbfd;
+  }
+
+  /* Blue dot for filled cells */
+  .dot {
+    height: 12px;
+    width: 12px;
+    background-color: #1b75bc;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* Accessibility: visually hidden text for screen readers */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+
+  .footnote {
+    font-size: 12px;
+    color: #555;
+    margin-top: 0.5em;
+    line-height: 1.4;
+  }
+</style>
+</head>
+
+<body>
+<table aria-label="Roles and Responsibilities in Mental Health">
+  <caption>Roles and Responsibilities in Mental Health</caption>
+  <thead>
+    <tr>
+      <th scope="col">Roles and Responsibilities in Mental Health</th>
+      <th scope="col">Industry Leaders*</th>
+      <th scope="col">All Club staff^ </th>
+      <th scope="col">Players</th>
+      <th scope="col">Club Doctor</th>
+      <th scope="col">Club Psychologist</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Prioritising Mental Health</td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Meeting workplace psychosocial health and safety obligations</td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Identifying and mitigating risks to mental health in the sporting environment and schedule</td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Identifying and mitigating risks to mental health from media and social media</td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Contributing to a psychologically safe team environment*</td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prevention and providing education on protecting and promoting good mental health</td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Ensuring only credentialed providers are engaged or endorsed</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Ensuring adequate resourcing for Mental Healthcare</td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Providing and promoting accessible pathways for Mental Healthcare</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Monitoring and screening for Mental Health symptoms</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Supporting safe return to play</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Encouraging help seeking and help giving</td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Mental Health assessment</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Mental Health treatment</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+    <tr>
+      <td>Mental Health specialist referral</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+      <td><span class="dot"></span><span class="sr-only">Yes</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="footnote">
+  * Leaders includes AFL Commission, Club Executives and Boards, Club General Managers, AFL Executive, AFLPA Executive.<br>
+  ^ Includes PDMs, IPDMs, healthcare staff, coaches.<br><br>
+  <em>Note: This table outlines the roles and responsibilities in supporting mental health within AFL environments. Dots indicate areas of responsibility for each group.</em>
+</p>
+
+</body>
+</html>
